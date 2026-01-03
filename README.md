@@ -1,5 +1,5 @@
 # Kyungwoo Lee
-Undergraduate student in Mechanical Engineering at Chung-Ang University interested in heat transfer, thermal management, and computational modeling.
+Undergraduate student in Mechanical Engineering at Chung-Ang University, with interests in heat transfer, thermal management, and computational modeling.
 
 🔗 ORCID: https://orcid.org/0009-0007-9004-5585
 
@@ -10,8 +10,8 @@ Undergraduate student in Mechanical Engineering at Chung-Ang University interest
 - Python for Engineering Applications
 
 ## Projects
-- Thermal Management Study of Glass Substrates (ongoing)
-- Numerical Analysis Practice (Python)
+- **Thermal Management Study of Glass Substrates** (ongoing)
+- **Numerical Analysis Practice** (Python)
 
 ## Tools
 - Python

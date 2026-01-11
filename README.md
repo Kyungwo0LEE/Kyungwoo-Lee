@@ -17,6 +17,7 @@ Undergraduate student in Mechanical Engineering at Chung-Ang University, with in
 - Python
 - MATLAB (basic)
 - GitHub
+- Ansys
 
 ## Contact
 - Email: kwdhid@cau.ac.kr

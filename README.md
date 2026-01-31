@@ -11,6 +11,7 @@ Undergraduate student in Mechanical Engineering at Chung-Ang University, with in
 
 ## Projects
 - **Thermal Management Study of Glass Substrates** (ongoing)
+- **Vision Based Laser Targeting** (ongoint)
 - **Numerical Analysis Practice** (Python)
 
 ## Tools
